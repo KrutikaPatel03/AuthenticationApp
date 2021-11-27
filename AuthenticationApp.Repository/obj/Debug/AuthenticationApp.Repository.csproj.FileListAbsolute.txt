@@ -1,0 +1,15 @@
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\AuthenticationApp.Repository.dll.config
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\AuthenticationApp.Repository.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\AuthenticationApp.Repository.pdb
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\AuthenticationApp.Entity.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\EntityFramework.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\AuthenticationApp.Entity.pdb
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\AuthenticationApp.Entity.dll.config
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\EntityFramework.xml
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\obj\Debug\AuthenticationApp.Repository.csprojAssemblyReference.cache
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\obj\Debug\AuthenticationApp.Repository.csproj.CoreCompileInputs.cache
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\obj\Debug\AuthenticationApp.Repository.csproj.CopyComplete
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\obj\Debug\AuthenticationApp.Repository.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Repository\obj\Debug\AuthenticationApp.Repository.pdb

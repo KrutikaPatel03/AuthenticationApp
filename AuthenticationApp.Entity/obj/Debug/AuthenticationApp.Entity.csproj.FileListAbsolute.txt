@@ -1,0 +1,11 @@
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\bin\Debug\AuthenticationApp.Entity.dll.config
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\bin\Debug\AuthenticationApp.Entity.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\bin\Debug\AuthenticationApp.Entity.pdb
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\bin\Debug\EntityFramework.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\bin\Debug\EntityFramework.SqlServer.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\bin\Debug\EntityFramework.xml
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\bin\Debug\EntityFramework.SqlServer.xml
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\obj\Debug\AuthenticationApp.Entity.csproj.CoreCompileInputs.cache
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\obj\Debug\AuthenticationApp.Entity.csproj.CopyComplete
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\obj\Debug\AuthenticationApp.Entity.dll
+F:\Rupesh\Work\Shailam_.Net\AuthenticationApp\AuthenticationApp.Entity\obj\Debug\AuthenticationApp.Entity.pdb
